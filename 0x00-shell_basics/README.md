@@ -1,2 +1,2 @@
-it shows the pathway of the current working directory.
+it prints the absolute  pathway of the current working directory.
 
