@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWER / DIVED))\n
+pintf $((POWER / DIVED))\n
